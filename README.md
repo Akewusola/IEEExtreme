@@ -1,4 +1,5 @@
 # IEEExtreme
 Solutions to some IEEExtreme past questions. 
-The questions acn be found in IEEE Extreme 15.0
+The questions can be found in IEEEXtreme past questions. 
+Note that the input are meant to be supplied by the user.
 
